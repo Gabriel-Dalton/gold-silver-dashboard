@@ -26,7 +26,7 @@ To run this project locally, you need a basic understanding of HTML, JavaScript,
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/yourusername/precious-metals-tracker.git
+   git clone https://github.com/gabriel-dalton/precious-metals-tracker.git
    cd precious-metals-tracker
    ```
 
